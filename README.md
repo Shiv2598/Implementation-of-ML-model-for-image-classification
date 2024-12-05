@@ -1,0 +1,2 @@
+# Implementation-of-ML-model-for-image-classification
+Image classification is a machine learning task where a model is trained to categorize images into predefined classes (e.g., "cat" or "dog"). It involves preprocessing images, training a model (like a CNN or pre-trained model such as MobileNet), and deploying it to predict classes for new images. Using tools  TensorFlow for training and Streamlit
